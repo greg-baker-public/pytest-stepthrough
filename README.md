@@ -3,9 +3,9 @@
 Pause after each test and wait for Enter — useful for hardware/integration
 flows where you want to observe output or reset something between tests.
 
-## Install (dev)
+## Install
 ```bash
-pip install -e .
+pip install pytest-stepthrough
 ```
 
 ## Usage
